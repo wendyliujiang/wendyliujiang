@@ -20,4 +20,4 @@ Python | R | HTML | CSS | Data Mining | Machine Learning
 
 ---
 
-<![Wendy's Image](https://raw.githubusercontent.com/ntclai/PictureForMyProject/main/giphy.gif) >
+<--![Wendy's Image](https://raw.githubusercontent.com/ntclai/PictureForMyProject/main/giphy.gif) -->
